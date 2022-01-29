@@ -1,3 +1,11 @@
+
+You will almost certainly want to use the original package at https://github.com/spatie/temporary-directory instead.
+
+
+Original documentation below.
+
+---
+
 # Quickly create, use and delete temporary directories
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/temporary-directory.svg?style=flat-square)](https://packagist.org/packages/spatie/temporary-directory)
