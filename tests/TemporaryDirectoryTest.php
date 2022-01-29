@@ -4,9 +4,9 @@ namespace Spatie\TemporaryDirectory\Test;
 
 use FilesystemIterator;
 use PHPUnit\Framework\TestCase;
-use Spatie\TemporaryDirectory\Exceptions\InvalidDirectoryName;
-use Spatie\TemporaryDirectory\Exceptions\PathAlreadyExists;
-use Spatie\TemporaryDirectory\TemporaryDirectory;
+use Peen\TemporaryDirectory\Exceptions\InvalidDirectoryName;
+use Peen\TemporaryDirectory\Exceptions\PathAlreadyExists;
+use Peen\TemporaryDirectory\TemporaryDirectory;
 
 class TemporaryDirectoryTest extends TestCase
 {

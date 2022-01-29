@@ -1,14 +1,20 @@
 {
-    "name": "spatie/temporary-directory",
+    "name": "nielspeen/temporary-directory",
     "description": "Easily create, use and destroy temporary directories",
     "keywords": [
         "spatie",
         "php",
         "temporary-directory"
     ],
-    "homepage": "https://github.com/spatie/temporary-directory",
+    "homepage": "https://github.com/nielspeen/temporary-directory",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Niels Peen",
+            "email": "niels@peen.email",
+            "homepage": "https://peen.dev",
+            "role": "Developer"
+        },
         {
             "name": "Alex Vanderbist",
             "email": "alex@spatie.be",
@@ -24,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\TemporaryDirectory\\": "src"
+            "Peen\\TemporaryDirectory\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\TemporaryDirectory\\Test\\": "tests"
+            "Peen\\TemporaryDirectory\\Test\\": "tests"
         }
     },
     "scripts": {

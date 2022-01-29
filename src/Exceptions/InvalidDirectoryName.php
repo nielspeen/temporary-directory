@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\TemporaryDirectory\Exceptions;
+namespace Peen\TemporaryDirectory\Exceptions;
 
 class InvalidDirectoryName extends \Exception
 {

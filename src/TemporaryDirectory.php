@@ -1,10 +1,10 @@
 <?php
 
-namespace Spatie\TemporaryDirectory;
+namespace Peen\TemporaryDirectory;
 
 use FilesystemIterator;
-use Spatie\TemporaryDirectory\Exceptions\InvalidDirectoryName;
-use Spatie\TemporaryDirectory\Exceptions\PathAlreadyExists;
+use Peen\TemporaryDirectory\Exceptions\InvalidDirectoryName;
+use Peen\TemporaryDirectory\Exceptions\PathAlreadyExists;
 
 class TemporaryDirectory
 {

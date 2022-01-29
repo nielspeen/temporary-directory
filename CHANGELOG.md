@@ -2,6 +2,10 @@
 
 All notable changes to `temporary-directory` will be documented in this file
 
+## 2.0.1 - 2022-01-29
+
+- change namespace to avoid clash with older Spatie version (temporary work-around)
+
 ## 2.0.0 - 2021-03-30
 
 - require PHP 8+
