@@ -1,6 +1,7 @@
 {
     "name": "nielspeen/temporary-directory",
     "description": "Easily create, use and destroy temporary directories",
+    "version": "dev-main",
     "keywords": [
         "spatie",
         "php",
